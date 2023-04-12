@@ -1,0 +1,15 @@
+#container {
+    background-image: url(./../../assets/circle-bg.png);
+    background-repeat: no-repeat;
+    /* background-size: 46%; */
+    /* background-color: transparent; */
+    background-position-y: 50%;
+    background-position-x: center;
+}
+
+#testimonials {
+    background-image: url(./../../assets/testimonial-circle.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    /* background-size: 32%; */
+}

@@ -1,0 +1,29 @@
+#topbar {
+    /* opacity: 0; */
+    transform: rotate(-45deg);
+    transform-origin: 0 0;
+    position: absolute;
+    top: 17px;
+}
+
+.topbarDefault,
+.bottomBarDefault {
+    transition: all 0.5s;
+}
+
+#bottomBar {
+    transform: rotate(45deg);
+    transform-origin: 0 0;
+    position: absolute;
+    top: -10px;
+    left: 4px;
+}
+
+.middle {
+    width: 0;
+    transition: all 0.5s;
+}
+
+.middleDefault {
+    transition: all 0.5s;
+}
